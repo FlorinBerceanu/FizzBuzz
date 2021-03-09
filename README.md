@@ -1,2 +1,2 @@
 # FizzBuzz
-Here you can see the fizzbuzz problem
+Here I solved the fizzbuzz problem
